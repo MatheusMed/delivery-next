@@ -1,5 +1,9 @@
 function Pedidos() {
-
+  return (
+    <div>
+      Text
+    </div>
+  );
 }
 
 
